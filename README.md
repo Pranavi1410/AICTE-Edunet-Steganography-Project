@@ -8,12 +8,12 @@ This project implements a simple *image steganography, a technique for hiding se
 Ensure you have the following installed before running the scripts:
 
 - Python 3.x
-- OpenCV (cv2)
+- OpenCV (`cv2`)
 
 Install dependencies using:
-bash
+```bash
 pip install opencv-python
-
+```
 
 ## Usage
 
